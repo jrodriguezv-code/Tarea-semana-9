@@ -1,0 +1,5 @@
+1. Sistema Operativo: La base de software (como Linux) que gestiona el hardware subyacente y asigna los recursos físicos (CPU, RAM) al proceso de nuestra aplicación.
+2. Node.js: El entorno de ejecución en tiempo de ejecución que interpreta nuestro código JavaScript en el servidor de manera asíncrona y basada en eventos.
+3. Aplicación (Express): El framework o código lógico que define las reglas de negocio, las rutas de la API, el procesamiento de datos y las respuestas al usuario.
+4. Puerto (3000): La puerta de enlace virtual específica en la interfaz de red que direcciona el tráfico de internet entrante directamente hacia nuestra aplicación Express.
+5. Logs del Servidor: El registro histórico y ordenado de eventos que permite auditar accesos, medir el rendimiento del sistema y diagnosticar errores críticos en tiempo real.
